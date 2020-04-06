@@ -1,0 +1,69 @@
+NATURAL TEXT BENCHMARK:
+LENGTH: 100
+Trie construction: 0.005160700000000018 sec.
+SuffixTree with simple initialization construction: 0.000650700000000004 sec.
+SuffixTree with McCreight initialization construction: 0.0002999000000000196 sec.
+LENGTH: 1000
+Trie construction: 0.9517571 sec.
+SuffixTree with simple initialization construction: 0.015003600000000006 sec.
+SuffixTree with McCreight initialization construction: 0.00369290000000011 sec.
+LENGTH: 2000
+Trie construction: 5.0324392 sec.
+SuffixTree with simple initialization construction: 0.019510999999999612 sec.
+SuffixTree with McCreight initialization construction: 0.008042700000000735 sec.
+LENGTH: 3000
+Trie construction: 15.0448819 sec.
+SuffixTree with simple initialization construction: 0.02763660000000101 sec.
+SuffixTree with McCreight initialization construction: 0.012940099999998012 sec.
+LENGTH: 10000
+SuffixTree with simple initialization construction: 0.07930260000000189 sec.
+SuffixTree with McCreight initialization construction: 0.03989570000000242 sec.
+LENGTH: 50000
+SuffixTree with simple initialization construction: 0.44348659999999995 sec.
+SuffixTree with McCreight initialization construction: 0.2183881999999997 sec.
+LENGTH: 100000
+SuffixTree with simple initialization construction: 1.0520953000000013 sec.
+SuffixTree with McCreight initialization construction: 0.4207059000000015 sec.
+LENGTH: 150000
+SuffixTree with simple initialization construction: 1.9891840000000016 sec.
+SuffixTree with McCreight initialization construction: 5.664779899999999 sec.
+LENGTH: 200000
+SuffixTree with simple initialization construction: 4.306182800000002 sec.
+SuffixTree with McCreight initialization construction: 2.401522799999995 sec.
+LENGTH: 246472
+SuffixTree with simple initialization construction: 5.3774947 sec.
+SuffixTree with McCreight initialization construction: 3.093084900000001 sec.
+ARTIFICIAL TEXT BENCHMARK:
+LENGTH: 100
+Trie construction: 0.004755899999999258 sec.
+SuffixTree with simple initialization construction: 0.0005546999999950231 sec.
+SuffixTree with McCreight initialization construction: 0.0003068999999982225 sec.
+LENGTH: 1000
+Trie construction: 2.333219300000003 sec.
+SuffixTree with simple initialization construction: 0.012307699999993815 sec.
+SuffixTree with McCreight initialization construction: 0.004024399999998707 sec.
+LENGTH: 2000
+Trie construction: 4.976924199999999 sec.
+SuffixTree with simple initialization construction: 0.020289900000001637 sec.
+SuffixTree with McCreight initialization construction: 0.0076353999999980715 sec.
+LENGTH: 3000
+Trie construction: 14.567192100000007 sec.
+SuffixTree with simple initialization construction: 0.025872200000009116 sec.
+SuffixTree with McCreight initialization construction: 0.011680299999994759 sec.
+LENGTH: 10000
+SuffixTree with simple initialization construction: 0.07982839999999669 sec.
+SuffixTree with McCreight initialization construction: 0.040091000000003874 sec.
+LENGTH: 50000
+SuffixTree with simple initialization construction: 0.45403299999999547 sec.
+SuffixTree with McCreight initialization construction: 0.21226900000000626 sec.
+LENGTH: 100000
+SuffixTree with simple initialization construction: 5.024323800000005 sec.
+SuffixTree with McCreight initialization construction: 1.155684100000002 sec.
+LENGTH: 150000
+SuffixTree with simple initialization construction: 3.0796888000000138 sec.
+SuffixTree with McCreight initialization construction: 1.6782706000000047 sec.
+LENGTH: 200000
+SuffixTree with simple initialization construction: 4.517475599999997 sec.
+SuffixTree with McCreight initialization construction: 2.285609699999995 sec.
+
+Process finished with exit code 0
